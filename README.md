@@ -19,6 +19,4 @@ A simple web application for managing a library of books. This project demonstra
 - Virtual environment (venv)
 
 ## AWS Deployment
-This project is deployed on AWS using S3 for the frontend and EC2 for the backend. Follow the 
-
-For a detailed walkthrough, please refer to the [YouTube video]([YOUR_YOUTUBE_VIDEO_LINK](https://youtu.be/800UdEBltGw?si=pXAgJoWt6Cyb5R7A)) I created, which covers the entire deployment process.
+For a detailed walkthrough, please refer to the [YouTube video](https://youtu.be/800UdEBltGw?si=pXAgJoWt6Cyb5R7A) I created, which covers the entire deployment process.
